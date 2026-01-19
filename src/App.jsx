@@ -1,6 +1,6 @@
 import CuponSlider from "./components/custom/CuponSlider"
 import Explore from "./components/custom/Explore"
-import Footer from "./components/custom/footer"
+import Footer from "./components/custom/Footer"
 import Header from "./components/custom/Header"
 import Hero from "./components/custom/Hero"
 import Holiday from "./components/custom/Holiday"
