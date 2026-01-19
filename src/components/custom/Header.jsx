@@ -38,7 +38,7 @@ const Header = () => {
         </div>
         <div className="d-flex align-items-center">
           <ul className="navbar-nav flex-row gap-1 m-0 services">
-            <li className="nav-item bg-color rounded-4  px-3 py-2">
+            <li className="nav-item bg-color hotel rounded-4  px-3 py-2">
               <a
                 href="#"
                 className=" nav-link text-decoration-none text-dark  fw-medium facilities"

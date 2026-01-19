@@ -2,7 +2,7 @@ import HolidayService from "./HolidayService";
 
 const Holiday = () => {
   return (
-    <section className="pb-xl-5 pt-2 pt-lg-5">
+    <section className="pb-xl-5 pt-4 pt-lg-5">
       <div className="container">
         <div className="row justify-content-between align-items-center g-4">
           <div className="col-lg-5">

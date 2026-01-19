@@ -31,7 +31,7 @@ const Footer = () => {
               </p>
             </div>
           </div>
-          <div className="col-md-2">
+          <div className="col-lg-2 col-sm-6">
             <div>
               <h5 class="text-white mb-2 mb-md-4">Page</h5>
               <ul className="p-0">
@@ -42,7 +42,7 @@ const Footer = () => {
               </ul>
             </div>
           </div>
-          <div className="col-md-2">
+          <div className="col-lg-2 col-sm-6">
             <div>
               <h5 class="text-white mb-2 mb-md-4">Link</h5>
               <ul className="p-0">
@@ -57,7 +57,7 @@ const Footer = () => {
               </ul>
             </div>
           </div>
-          <div className="col-md-2">
+          <div className="col-lg-2 col-sm-6">
             <div>
               <h5 class="text-white mb-2 mb-md-4">Global Site</h5>
               <ul className="p-0">
@@ -69,7 +69,7 @@ const Footer = () => {
               </ul>
             </div>
           </div>
-          <div className="col-md-2">
+          <div className="col-lg-2 col-sm-6">
             <div>
               <h5 class="text-white mb-2 mb-md-4">Booking</h5>
               <ul className="p-0">
@@ -152,11 +152,11 @@ const Footer = () => {
         </div>
         <div className="row">
           <div className=" col-lg-6 pt-5">
-            <h6 className="grey-text">
+            <h6 className="grey-text center-text">
               Copyrights ©2026 Booking. Build by StackBros
             </h6>
           </div>
-          <div className="col-lg-6 text-end  pt-5">
+          <div className="col-lg-6 text-end  pt-5 center-text">
             <span className="grey-text me-3">Privacy policy</span>
             <span className="grey-text me-3">Terms and conditions</span>
             <span className="grey-text me-3">Refund policy</span>

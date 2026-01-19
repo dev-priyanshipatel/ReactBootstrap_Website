@@ -287,6 +287,8 @@ header {
     background-color: #238cc8 !important;
 }
 
+/* offcanvas style */
+
 .offcanvas-navbar.navbar-nav{
     flex-direction: column !important;
 }
@@ -301,5 +303,17 @@ header {
 
     ul.services {
         display: none;
+    }
+}
+
+@media(max-width : 1199px){
+    .mt-xl-n9{
+        margin-top: -130px !important;
+    }
+}
+
+@media(max-width : 992px){
+    .center-text{
+        text-align: center;
     }
 }

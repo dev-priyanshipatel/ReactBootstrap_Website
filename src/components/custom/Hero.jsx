@@ -47,7 +47,6 @@ const Hero = () => {
                   </div>
                   <div className="align-middle">
                     <h6 className="fw-normal mb-0 fw-medium">
-                      {" "}
                       Watch our story
                     </h6>
                   </div>
