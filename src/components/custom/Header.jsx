@@ -1,8 +1,9 @@
+import OffCanvas from "../react-bootstrap/offCanvas";
 import Logo from "./Logo";
 
 const Header = () => {
   return (
-    <header className=" py-1 ">
+    <header className=" py-3 ">
       <div className="container d-flex justify-content-between align-items-center">
         <div className="d-flex align-items-center ">
           <Logo />
@@ -70,8 +71,8 @@ const Header = () => {
               </a>
             </li>
           </ul>
-          <div>
             <div className="d-flex align-items-center gap-2 ">
+              <OffCanvas />
               <div className="nav-item grey-bg px-3 py-2 rounded-3 ms-2">
                 <a
                   href="#"
@@ -87,7 +88,6 @@ const Header = () => {
                   className="profile rounded-3"
                 />
               </div>
-            </div>
           </div>
         </div>
       </div>

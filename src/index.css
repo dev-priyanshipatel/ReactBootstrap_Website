@@ -286,8 +286,16 @@ header {
 .linkedIn-bg{
     background-color: #238cc8 !important;
 }
+
+.offcanvas-navbar.navbar-nav{
+    flex-direction: column !important;
+}
+
+.offcanvas-navbar.navbar-nav .nav-link{
+    padding: 8px 16px !important;
+}
 @media(max-width : 1200px) {
-    nav {
+    header nav{
         display: none;
     }
 
